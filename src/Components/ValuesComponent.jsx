@@ -1,9 +1,9 @@
 import React from "react";
 
-const ValuesComponent = ({ heading }) => {
+const ValuesComponent = ({ heading, details }) => {
   return (
     <div className="p-5 rounded-lg border-[1px] border-primary">
-      <div className="w-[60px] h-[60px] bg-primary bg-opacity-10 rounded-lg flex items-center justify-center">
+      <div className="w-[40px] h-[40px] bg-primary bg-opacity-10 rounded-lg flex items-center justify-center">
         <svg
           width="23"
           height="23"
@@ -23,11 +23,8 @@ const ValuesComponent = ({ heading }) => {
           />
         </svg>
       </div>
-      <h2 className="text-darkGreen py-5 text-xl">{heading}</h2>
-      <p>
-        Our enthusiasm to deliver the best makes us unique. We uphold the
-        highest standards in deliverability.
-      </p>
+      <h2 className="text-darkGreen mt-2 mb-4 text-xl">{heading}</h2>
+      <p className="text-xs">{details}</p>
     </div>
   );
 };
