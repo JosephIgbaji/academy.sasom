@@ -2,7 +2,8 @@ import React from "react";
 import QuestionCard from "./QuestionCard";
 import Button from "./Button";
 import { Link } from "react-router-dom";
-const HomeFaq = () => {
+const HomeFaq = ({ faq }) => {
+  console.log(faq);
   const faqs = [
     {
       question:
@@ -51,7 +52,7 @@ const HomeFaq = () => {
         </div>
       </div>
       <div className="mt-5">
-        {faqs.map((ques, index) => (
+        {faq.slice(0, 5).map((ques, index) => (
           <QuestionCard key={index} que={ques.question} ans={ques.answer} />
         ))}
       </div>

@@ -6,6 +6,7 @@ import KeyStrength from "../Components/KeyStrength";
 import Courses from "../Components/Courses";
 import AdmissionProcess from "../Components/AdmissionProcess";
 import HomeFaq from "../Components/HomeFaq";
+import { faq } from "../faq";
 
 const Home = () => {
   return (
@@ -16,7 +17,7 @@ const Home = () => {
       <KeyStrength />
       <Courses />
       <AdmissionProcess />
-      <HomeFaq />
+      <HomeFaq faq={faq} />
     </div>
   );
 };

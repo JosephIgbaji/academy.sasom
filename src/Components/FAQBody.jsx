@@ -1,5 +1,6 @@
 import React from "react";
 import QuestionCard from "./QuestionCard";
+import { faq } from "../faq";
 
 const FAQBody = () => {
   const faqs = [
@@ -105,7 +106,7 @@ const FAQBody = () => {
         </div>
       </div>
       <div className="mt-5">
-        {faqs.map((ques, index) => (
+        {faq.map((ques, index) => (
           <QuestionCard key={index} que={ques.question} ans={ques.answer} />
         ))}
       </div>

@@ -7,12 +7,12 @@ const Hero = () => {
     <header className="md:h-[600px] bg-white  w-full px-5 py-0 md:px-20 bg-opacity-40 flex md:justify-between flex-col md:flex-row items-center">
       <section className="md:mt-10 md:w-[550px]">
         <h1 className="text-4xl leading-normal  font-semiBold text-black mb-5">
-          Acquire the skills you need for a $100k+ tech career in just{" "}
-          <span className="text-primary">3 months.</span>
+          Why wait when you can acquire the skills you need for a{" "}
+          <span className="text-primary">tech career</span> now!
         </h1>
         <p className="text-sm">
-          Acquire the 21st century skills so as to improve your relevance and
-          employability in this ever changing world.
+          In an ever changing world, you don&apos;t have to be limited. Acquire
+          the skills you need for a tech career to make you different.
         </p>
         <div className="mt-5">
           <Button title="Get Started" />

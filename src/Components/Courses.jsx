@@ -18,25 +18,25 @@ const Courses = () => {
           image={frontend}
           title="Frontend Development"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦200,000"
         />
         <CourseCard
           image={productDesign}
           title="Product Design"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦150,000"
         />
         <CourseCard
           image={backend}
           title="Backend Development"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦250,000"
         />
         <CourseCard
           image={mobileApp}
           title="Mobile App Development"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦250,000"
         />
         <CourseCard
           image={productManagement}
@@ -48,19 +48,19 @@ const Courses = () => {
           image={machineLearning}
           title="Machine Learning with Python"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦300,000"
         />
         <CourseCard
           image={dataAnalyst}
           title="Data Analysis"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦150,000"
         />
         <CourseCard
           image={digitalMarketting}
           title="Digital Marketing"
           details="Product design is a diverse domain encompassing the creation and enhancement of products to meet both user requirements and business objectives. "
-          price="₦500,000"
+          price="₦180,000"
         />
       </div>
       <button className="bg-sasomRed text-white rounded-xl p-4 mt-8">
