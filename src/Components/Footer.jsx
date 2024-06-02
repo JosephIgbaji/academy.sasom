@@ -229,8 +229,8 @@ const Footer = () => {
           </div>
           <div className="text-center text-sm md:text-right ">
             <p>
-              Ilori close, off Apata street, Okeira,
-              <br /> Lagos State.
+              41, Idiroko Road, Besides Domino&apos;s Pizza,
+              <br /> Sango Ota.
             </p>
             <p>enquiry@sasom.com</p>
           </div>

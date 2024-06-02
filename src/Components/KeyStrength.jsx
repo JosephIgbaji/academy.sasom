@@ -83,7 +83,7 @@ const KeyStrength = () => {
             </svg>
           }
           title="Hands-On Learning"
-          description="Sasom Academy distinguishes itself through its comprehensive curriculum, addressing the latest industry trends and guaranteeing aspiring tech enthusiasts a thorough and balanced education"
+          description="Sasom Academy  is an educational platform where students actively engage with real-world experiences, skills, or materials to enhance their understanding of a course."
         />
         <KeyCard
           icon={
@@ -115,7 +115,7 @@ const KeyStrength = () => {
             </svg>
           }
           title="Mentorship Excellence"
-          description="Sasom Academy distinguishes itself through its comprehensive curriculum, addressing the latest industry trends and guaranteeing aspiring tech enthusiasts a thorough and balanced education"
+          description="Sasom allows students to network with current professionals. We provide great counsel and assistance through our mentoring programme."
         />
         <KeyCard
           icon={
@@ -142,7 +142,7 @@ const KeyStrength = () => {
             </svg>
           }
           title="Barrier-Free Training"
-          description="Sasom Academy distinguishes itself through its comprehensive curriculum, addressing the latest industry trends and guaranteeing aspiring tech enthusiasts a thorough and balanced education"
+          description="We provide access to class recordings for 30days. Our training ensures that learning is accessible and inclusive for individuals of diverse backgrounds or abilities."
         />
         <KeyCard
           icon={
@@ -165,7 +165,7 @@ const KeyStrength = () => {
             </svg>
           }
           title="Career-Ready Certification"
-          description="Sasom Academy distinguishes itself through its comprehensive curriculum, addressing the latest industry trends and guaranteeing aspiring tech enthusiasts a thorough and balanced education"
+          description="Sasom Academy ensures internationally & locally recognized qualification indicating an individual's readiness and competence for a specific profession. "
         />
         <KeyCard
           icon={
@@ -188,7 +188,7 @@ const KeyStrength = () => {
             </svg>
           }
           title="Expert Instructors"
-          description="Sasom Academy distinguishes itself through its comprehensive curriculum, addressing the latest industry trends and guaranteeing aspiring tech enthusiasts a thorough and balanced education"
+          description="Sasom Academy have highly skilled individuals with advanced knowledge who teach and guide others in a specific subject or field."
         />
       </div>
     </div>
