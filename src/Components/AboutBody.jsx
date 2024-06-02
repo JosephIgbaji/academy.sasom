@@ -12,8 +12,8 @@ const AboutBody = () => {
           <p>
             Sasom Academy is where excellence, innovation, and empowerment
             intersect to shape the future of Technology education. At Sasom,
-            we're more than just a learning institution – we're a community
-            dedicated to fostering excellence, driving innovation, and
+            we&apos;re more than just a learning institution – we&apos;re a
+            community dedicated to fostering excellence, driving innovation, and
             empowering individuals to make meaningful contributions to the world
             of Technology. Our Commitment to Excellence Excellence is the
             cornerstone of our philosophy at Sasom Academy. From the caliber of
@@ -39,12 +39,12 @@ const AboutBody = () => {
             they need to succeed in the Tech industry and beyond. Through our
             programs and initiatives, we aim to empower our students to become
             leaders, innovators, and changemakers who contribute positively to
-            their communities and the world at large. Join Us Whether you're a
-            seasoned professional looking to advance your career or a beginner
-            eager to explore the world of Technology, we invite you to join us
-            at Sasom Academy. Together, we'll embark on a journey of Excellence,
-            Innovation, and Empowerment – shaping the future, one student at a
-            time.
+            their communities and the world at large. Join Us Whether
+            you&apos;re a seasoned professional looking to advance your career
+            or a beginner eager to explore the world of Technology, we invite
+            you to join us at Sasom Academy. Together, we&apos;ll embark on a
+            journey of Excellence, Innovation, and Empowerment – shaping the
+            future, one student at a time.
           </p>
         </div>
         <div>
